@@ -43,6 +43,8 @@ Developed a VHDL-based telemetry system using the Xilinx Zynq-7000 platform as p
 
 **Technologies:** VHDL, FPGA, Vivado, I2C, UART, SPI
 
+🔗 [View Project](https://github.com/mdipto/VHDL-Telemetry-System-FPGA-Aquasonic-III)
+
 ### 2. Simonduino — ATmega328P PCB Design
 
 Course-guided electronics project involving schematic design, component placement, PCB layout, and 3D visualization using Altium CircuitMaker.
